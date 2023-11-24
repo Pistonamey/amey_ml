@@ -15,23 +15,23 @@ pip install amey_ml
 ## Features
 amey_ml includes the following modules and functions:
 
-    Naive Bayes (naive_bayes.py)
-        output(training_file, test_file): Perform Naive Bayes classification.
+1. Naive Bayes (naive_bayes.py)
+    - output(training_file, test_file): Perform Naive Bayes classification.
 
-    Linear Regression (linear_regression.py)
-        output(training_file, test_file, degree, lambda1): Perform regularized linear regression.
+2. Linear Regression (linear_regression.py)
+    - output(training_file, test_file, degree, lambda1): Perform regularized linear regression.
 
-    Neural Networks with Keras (nn_keras.py)
-        output(directory, dataset, layers, units_per_layer, epochs): Train and evaluate neural network models.
+3. Neural Networks with Keras (nn_keras.py)
+    - output(directory, dataset, layers, units_per_layer, epochs): Train and evaluate neural network models.
 
-    Decision Trees (decision_tree.py)
-        output(train_path, test_path, model_type, threshold): Train decision trees or random forests.
+4. Decision Trees (decision_tree.py)
+    - output(train_path, test_path, model_type, threshold): Train decision trees or random forests.
 
-    K-Nearest Neighbors (knn_classify.py)
-        output(training_file, test_file, k): Implement K-nearest neighbors classification.
+5. K-Nearest Neighbors (knn_classify.py)
+    - output(training_file, test_file, k): Implement K-nearest neighbors classification.
 
-    K-Means Clustering (k_means.py)
-        output(data_file, K, initialization): Perform K-means clustering on a dataset.
+6. K-Means Clustering (k_means.py)
+    - output(data_file, K, initialization): Perform K-means clustering on a dataset.
 
 Each function is designed to be straightforward to use, requiring only the necessary parameters for each specific algorithm.
 

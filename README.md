@@ -35,6 +35,8 @@ amey_ml includes the following modules and functions:
 
 Each function is designed to be straightforward to use, requiring only the necessary parameters for each specific algorithm.
 
+Installing this package will install scikit-learn, tensorflow, pandas, scikit-learn, and keras by default.
+
 ## Usage
 To use amey_ml, first import the required function from the package and then call it with the necessary parameters. Here are some example usages:
 ```python
@@ -72,3 +74,5 @@ feature branch. Pull requests are warmly welcome.
 ## Licensing
 The code in this project is licensed under MIT license.
 
+## GitHub
+https://github.com/Pistonamey/amey_ml/

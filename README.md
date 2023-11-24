@@ -68,7 +68,7 @@ Each function in the amey_ml package comes with detailed docstrings explaining t
 parameters, and return types. For more detailed documentation, refer to the docstrings within each function.
 
 ## Contributing
-Contributions to amey_ml are welcome! If you'd like to contribute, please contract me at amey.shinde@bizzencecollab.com. Please fork the repository and use a 
+Contributions to amey_ml are welcome! If you'd like to contribute, please contact me at amey.shinde@bizzencecollab.com. Please fork the repository and use a 
 feature branch. Pull requests are warmly welcome.
 
 ## Licensing
